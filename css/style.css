@@ -1,0 +1,35 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.clear {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+body {
+	background-image: url('../img/snow.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	height: 200vh;
+}
+
+h1 {
+	text-align: center;
+	color: red;
+}
+
+.wrapper {
+	font-weight: bolder;
+	float: right;
+	padding-right: 150px;
+	color: white;
+}
+
+#glass {
+	background: rgba(255, 255, 255, 0.5);
+}
+

@@ -9,14 +9,14 @@ function showNext() {
 	document.getElementById("v1L1").style.color = "black";
 }
 
-function showThird() {
+function show1() {
 	document.getElementById("v2").style.color = "black";
 	document.getElementById("v2L0").style.color = "black";
 	document.getElementById("v2L1").style.color = "black";
 	document.getElementById("v2L2").style.color = "black";
 }
 
-function showFourth() {
+function show2() {
 	document.getElementById("v3").style.color = "black";
 	document.getElementById("v3L0").style.color = "black";
 	document.getElementById("v3L1").style.color = "black";
@@ -24,7 +24,7 @@ function showFourth() {
 	document.getElementById("v3L3").style.color = "black";
 }
 
-function showFifth() {
+function show3() {
 	document.getElementById("v4").style.color = "black";
 	document.getElementById("v4L0").style.color = "black";
 	document.getElementById("v4L1").style.color = "black";
@@ -33,7 +33,7 @@ function showFifth() {
 	document.getElementById("v4L4").style.color = "black";
 }
 
-function showSixth() {
+function show4() {
 	document.getElementById("v5").style.color = "black";
 	document.getElementById("v5L0").style.color = "black";
 	document.getElementById("v5L1").style.color = "black";
@@ -43,7 +43,7 @@ function showSixth() {
 	document.getElementById("v5L5").style.color = "black";
 }
 
-function showSeventh() {
+function show5() {
 	document.getElementById("v6").style.color = "black";
 	document.getElementById("v6L0").style.color = "black";
 	document.getElementById("v6L1").style.color = "black";
@@ -54,7 +54,7 @@ function showSeventh() {
 	document.getElementById("v6L6").style.color = "black";
 }
 
-function showEighth() {
+function show6() {
 	document.getElementById("v7").style.color = "black";
 	document.getElementById("v7L0").style.color = "black";
 	document.getElementById("v7L1").style.color = "black";
@@ -66,7 +66,7 @@ function showEighth() {
 	document.getElementById("v7L7").style.color = "black";
 }
 
-function showNinth() {
+function show7() {
 	document.getElementById("v8").style.color = "black";
 	document.getElementById("v8L0").style.color = "black";
 	document.getElementById("v8L1").style.color = "black";
@@ -80,7 +80,7 @@ function showNinth() {
 }
 
 
-function showTenth() {
+function show8() {
 	document.getElementById("v9").style.color = "black";
 	document.getElementById("v9L0").style.color = "black";
 	document.getElementById("v9L1").style.color = "black";
@@ -94,7 +94,7 @@ function showTenth() {
 	document.getElementById("v9L9").style.color = "black";
 }
 
-function showEleventh() {
+function show9() {
 	document.getElementById("v10").style.color = "black";
 	document.getElementById("v10L0").style.color = "black";
 	document.getElementById("v10L1").style.color = "black";
@@ -109,7 +109,7 @@ function showEleventh() {
 	document.getElementById("v10L10").style.color = "black";
 }
 
-function showTwelfth() {
+function show10() {
 	document.getElementById("v11").style.color = "black";
 	document.getElementById("v11L0").style.color = "black";
 	document.getElementById("v11L1").style.color = "black";

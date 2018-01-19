@@ -1,6 +1,7 @@
 function changeColor() {
 	document.getElementById("v0").style.color = "black";
 	document.getElementById("v0L0").style.color = "black";
+	document.getElementsByClassName("fa-heart").style.color = "red";
 }
 
 function showNext() {

@@ -32,3 +32,9 @@ h1 {
 #glass {
 	background: rgba(255, 255, 255, 0.5);
 }
+
+@media only screen (min-width: 319px) and (max-width: 767px) {
+	body {
+		background-image: url('../img/xssnow.jpg');
+	}
+}
